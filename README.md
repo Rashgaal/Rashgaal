@@ -7,5 +7,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashgaal&layout=compact&show_icons=true&theme=tokyonight)
 
+https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/angular.svg
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fgithub.com%2FRashgaal&up_message=Visitar&up_color=green&style=plastic)
+:zap: Angular 19
