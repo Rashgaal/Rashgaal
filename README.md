@@ -1,6 +1,6 @@
-### ¡Hola a todos! Mi nombre es Quino - aka Rashgaal 👋
+### ¡Hi everyone! My name is Quino - aka Rashgaal 👋
 
-## Mis estadisticas son:
+## My stats are:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rashgaal&show_icons=true&theme=tokyonight)
 
